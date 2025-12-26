@@ -15,7 +15,7 @@
 
 ### How to use?
 
-1. Open the [Void]() web app.
+1. Open the [Void](https://haithamaouati.github.io/Void/) web app.
 2. Start typing directly on the page.
 3. Your text is saved automatically in the URL.
 4. Refresh or reopen the page to keep your text.
