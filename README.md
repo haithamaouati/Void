@@ -1,6 +1,6 @@
-# ZeroText
+# Void
 
-**ZeroText** is a minimalist, offline-friendly web app for writing plain text without accounts, clutter, or distractions. It focuses on the text itself, keeping your notes portable, private, and easy to share.
+**Void** is a minimalist, offline-friendly web app for writing plain text without accounts, clutter, or distractions. It focuses on the text itself, keeping your notes portable, private, and easy to share.
 
 ### Key features:
 - Plain-text editor with no formatting noise
@@ -11,11 +11,11 @@
 - Light and dark mode via system preferences
 - Optional per-note styling stored with the text
 
-**ZeroText** stays out of the way and lets words exist on their own terms.
+**Void** stays out of the way and lets words exist on their own terms.
 
 ### How to use?
 
-1. Open the [ZeroText]() web app.
+1. Open the [Void]() web app.
 2. Start typing directly on the page.
 3. Your text is saved automatically in the URL.
 4. Refresh or reopen the page to keep your text.
